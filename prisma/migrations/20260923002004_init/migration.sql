@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "Prestamo" ALTER COLUMN "fechaFin" DROP NOT NULL,
+ALTER COLUMN "fechaFin" DROP DEFAULT;

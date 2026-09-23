@@ -1,0 +1,34 @@
+{
+  "name": "aplicada2-parcial1-fabio",
+  "version": "1.0.0",
+  "description": "Repositorio para el primer parcial de Aplicada 2.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faibol27/Aplicada2-Parcial1-LuisFabioCortorreal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Faibol27/Aplicada2-Parcial1-LuisFabioCortorreal/issues"
+  },
+  "homepage": "https://github.com/Faibol27/Aplicada2-Parcial1-LuisFabioCortorreal#readme",
+  "dependencies": {
+    "@prisma/adapter-pg": "^7.10.0",
+    "@prisma/client": "^7.10.0",
+    "bcryptjs": "^3.0.3",
+    "dotenv": "^18.0.3",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "pg": "^8.23.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14",
+    "prisma": "^7.10.0"
+  }
+}
